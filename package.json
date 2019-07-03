@@ -1,0 +1,25 @@
+{
+  "name": "cordova-windows-capability-documentsLibrary",
+  "version": "0.1.1",
+  "description": "Add documentsLibrary Capability to appxmanifest",
+  "cordova": {
+    "id": "cordova-windows-capability-documentsLibrary",
+    "platforms": [
+      "windows"
+    ]
+  },
+  "repository": {
+    "type": "git",
+    "url": ""
+  },
+  "keywords": [
+    "ecosystem:cordova",
+    "cordova-windows"
+  ],
+  "author": "Rex Steel",
+  "license": "Rex Steel",
+  "bugs": {
+    "url": ""
+  },
+  "homepage": ""
+}
